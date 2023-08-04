@@ -1,2 +1,3 @@
-# ITF-Lab
-#ITF-Lab 2018
+# ITF-Lab 2018
+## Author
+ ภาคิน ปานสุข 66070153
